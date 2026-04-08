@@ -105,13 +105,7 @@ Cyber Threat Intelligence Dashboard:
 
 ---
 
-# 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishii-sudo&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
