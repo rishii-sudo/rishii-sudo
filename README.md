@@ -60,7 +60,7 @@ Focused on Practical Exploitation & Attack Simulation
 
 ---
 
-# 🚀 Premium Project Showcase
+# 🚀 Project Showcase
 
 <table>
 <tr>
