@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,24&height=260&section=header&text=Rishabh%20Pareek(temp0day) &fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Offensive%20Security%20•%20Red%20Team%20•%20Cyber%20Threat%20Intelligence&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,24&height=260&section=header&text=Rishabh%20Pareek(temp0day)&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Offensive%20Security%20•%20Red%20Team%20•%20Cyber%20Threat%20Intelligence&descAlignY=58" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=1000&lines=Penetration+Tester+In+Training;Adversary+Simulation+Enthusiast;Threat+Intelligence+Builder;Breaking+Systems+to+Secure+Them" />
 
