@@ -25,7 +25,7 @@ Building Security Tooling + CTI Platforms
 Focused on Practical Exploitation & Attack Simulation
 ```
 
-* 🛡️ 50+ Hands-on TryHackMe Labs Completed
+* 🛡️ 150+ Hands-on TryHackMe Labs Completed
 * 🏆 TryHackMe Top Performer Badge
 * 🚀 Seeking Offensive Security / Red Team Internship
 * 🔍 Passionate About Threat Emulation & Security Automation
